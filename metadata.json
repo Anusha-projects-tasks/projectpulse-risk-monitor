@@ -1,0 +1,6 @@
+{
+  "name": "ProjectPulse — Project Risk & Productivity Monitor",
+  "description": "Enterprise SaaS platform for proactive project risk mitigation, productivity analytics, AI-assisted work handover, and real-time team communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
